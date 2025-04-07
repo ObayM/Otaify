@@ -1,0 +1,4 @@
+.vercel
+./temp/extracted_mails/
+venv/
+__pycache__/
